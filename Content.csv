@@ -1,2 +1,4 @@
 counter,groupno,groupimg,itemurl,itemmp3,itemname
 1,1,https://raw.githubusercontent.com/arisdelarea/TalkingAra/master/Dog002.png,https://raw.githubusercontent.com/arisdelarea/TalkingAra/master/Dog002.png,https://raw.githubusercontent.com/arisdelarea/TalkingAra/master/BGMusic002.mp3,DOG
+2,2,https://raw.githubusercontent.com/arisdelarea/TalkingAra/master/Cat002.png,https://raw.githubusercontent.com/arisdelarea/TalkingAra/master/Cat002.png,https://raw.githubusercontent.com/arisdelarea/TalkingAra/master/BGMusic002.mp3,CAT
+2,3,https://raw.githubusercontent.com/arisdelarea/TalkingAra/master/Mouse002.png,https://raw.githubusercontent.com/arisdelarea/TalkingAra/master/Mouse002.png,https://raw.githubusercontent.com/arisdelarea/TalkingAra/master/BGMusic002.mp3,MOUSE
